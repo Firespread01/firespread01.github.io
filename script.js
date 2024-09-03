@@ -7,7 +7,7 @@ function tiktok() {
 function slope() {
     window.open('https://firespread01.github.io/slope', '_blank');
 }
-function cookie() {
+function cookieclicker() {
     window.open("https://firespread01.github.io/cookieclicker", '_blank');
 }
 
