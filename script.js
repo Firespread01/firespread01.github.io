@@ -8,6 +8,6 @@ function slope() {
     window.open('https://firespread01.github.io/slope', '_blank');
 }
 function cookieclicker() {
-    window.open("https://firespread01.github.io/cookieclicker", '_blank');
+    window.open("https://firespread01.github.io/cookieclicker/", '_blank');
 }
 
