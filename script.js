@@ -10,4 +10,6 @@ function slope() {
 function cookieclicker() {
     window.open("https://firespread01.github.io/cookieclicker/", '_blank');
 }
-
+function drifthunters() {
+    window.open("https://firespread01.github.io/drift-hunters/", '_blank');
+}
